@@ -1137,5 +1137,20 @@ export const persons = [
       country: "Portugal"
     }
   },
-
+ {
+    id: 68,
+    name: "Vishnu Mohan",
+    img: "",
+    links: {
+      website: "",
+      linkedin: "www.linkedin.com/in/vishnu-mohan-6534a3142/",
+      github: "https://github.com/Vishnu053"
+    },
+    jobTitle: "",
+    location: {
+      city: "",
+      state: "Kerala",
+      country: "India"
+    }
+  },
 ];
